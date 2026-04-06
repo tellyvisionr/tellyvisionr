@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Telly 👋
 
-<!--
-**tellyvisionr/tellyvisionr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer with 3 years of experience building and shipping production systems.
+Currently focused on DevOps, Platform Engineering, and Backend development.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** Python, SQL, PowerShell, HCL (Terraform)
+- **Cloud & Infra:** AWS (ECS Fargate, Lambda, ECR), Terraform
+- **CI/CD:** GitHub Actions
+- **Backend:** FastAPI, PostgreSQL
+- **Observability:** Datadog (SLOs, monitors, dashboards), ServiceNow
+- **Other:** Docker,  REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Project
+### [CourtVision API](https://github.com/tellyvisionr/courtvision-api)
+Basketball statistics microservice deployed to AWS ECS Fargate with full CI/CD via GitHub Actions and infrastructure managed entirely in Terraform.
+
+## 📫 Let's Connect
+- [LinkedIn](https://linkedin.com/in/YOUR_HANDLE)
+- Open to DevOps, Platform Engineering, and Backend SWE roles
