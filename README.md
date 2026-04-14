@@ -1,6 +1,6 @@
 # Hi, I'm Telly 👋
 
-Software Engineer with 3 years of experience building and shipping production systems.
+Backend Engineer with 3 years of experience building and shipping production systems.
 Currently focused on DevOps, Platform Engineering, and Backend development.
 
 ## 🛠️ Tech Stack
