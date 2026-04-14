@@ -4,7 +4,7 @@ Backend Engineer with 3 years of experience building and shipping production sys
 Currently focused on DevOps, Platform Engineering, and Backend development.
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, SQL, PowerShell, HCL (Terraform)
+- **Languages:** Python, SQL, PowerShell, HCL (Terraform), C, C++
 - **Cloud & Infra:** AWS (ECS Fargate, Lambda, ECR), Terraform
 - **CI/CD:** GitHub Actions
 - **Backend:** FastAPI, PostgreSQL
