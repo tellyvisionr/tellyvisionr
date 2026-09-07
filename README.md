@@ -1,9 +1,9 @@
-# Hi, I'm Telly 👋
+# Hey, I'm Telly 
 
-Backend Engineer with 3 years of experience building and shipping production systems.
+Backend Engineer with 3 years of experience building and shipping AI agents.
 Currently focused on DevOps, Platform Engineering, and Backend development.
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Languages:** Python, SQL, PowerShell, HCL (Terraform), C, C++
 - **Cloud & Infra:** AWS (ECS Fargate, Lambda, ECR), Terraform
 - **CI/CD:** GitHub Actions
